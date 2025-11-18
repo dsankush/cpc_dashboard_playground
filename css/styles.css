@@ -1,0 +1,18 @@
+:root{
+  --bg:#f8fafc;
+  --panel:#ffffff;
+  --card:#ffffff;
+  --card-hover:#f8f9ff;
+  --muted:#6b7280;
+  --text:#1f2937;
+  --acc1:#6366f1;
+  --acc2:#f59e0b;
+  --acc3:#10b981;
+  --acc4:#ec4899;
+  --acc5:#8b5cf6;
+  --ring:#e5e7eb;
+  --border:#d1d5db;
+  --shadow:rgba(99,102,241,.08);
+  --shadow-lg:rgba(99,102,241,.15);
+}
+/* ...the rest of your CSS (copy everything from <style> in index.html) ... */
